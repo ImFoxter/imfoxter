@@ -2,7 +2,7 @@
 
 # I'm a beginner programmer trying to reach the top.
 ![GITHUB-STATS](https://github-readme-stats.vercel.app/api?username=imfoxter&show_icons=true&theme=tokyonight)
-![1](https://tenor.com/uk/view/test-typing-codes-gif-15828752)
+![GIF](https://github.com/ImFoxter/imfoxter/blob/master/assets/code.gif)
 
 
 ### Languages Tools.
